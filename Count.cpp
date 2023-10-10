@@ -35,7 +35,7 @@ int main(){
 		
 		cout << endl;
 		
-		cout << "The " << i+1 << " element has appeared " << count[i] << " times." << endl;
+		cout << "The " << arr[i] << " element has appeared " << count[i] << " times." << endl;
 		
 		cout << endl;
 	}
